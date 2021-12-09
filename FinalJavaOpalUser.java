@@ -72,7 +72,7 @@ import java.io.*;
 
 				}
 
-				System.out.println("\nWELCOME Opal Users for Sunday Fares .....   ");
+				System.out.println("\nWELCOME Opal Users \nFor Sunday Fares .....   ");
 			}
 			catch (Exception e)   //Identifying Exception to avoid crash:
 			{
